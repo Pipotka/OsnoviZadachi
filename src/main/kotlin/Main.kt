@@ -26,6 +26,7 @@ fun main(args: Array<String>)
             previousChar = str[i]
         }
     }
+
     if ( countChar > 1)
     {
         result = result + countChar + previousChar
